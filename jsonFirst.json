@@ -1,0 +1,17 @@
+{
+  "user1":{
+  "id" : "1",
+  "title" : "project manager",
+  "salary" : "50,000",
+  "address" : 
+  {
+    "add1" : "1000 town center",
+    "city" : "southfield",
+    "zipcode" : "49785"
+  }
+  ,
+  "skills": ["java", "oracle", "C++"]
+  
+  }
+  
+}

@@ -1,0 +1,44 @@
+{
+  "Company1": {
+    
+    "position": "project manager",
+    "hoursPerDay": "8",
+    "pay": 10,
+    "address": {
+      "add1": "1000 town center",
+      "city": "southfield",
+      "zipcode": "49785"
+    },
+    "skills": [
+      "java",
+      "oracle",
+      "C++"
+    ]
+    ,
+    "qualifications" : "Masters"
+    ,
+    "personality":"energetic,cheerful"
+    
+  }
+  ,
+  
+   "Company2": {
+    
+    "position": "teacher",
+    "hoursPerDay": "10",
+    "pay": 25,
+    "address": {
+      "add1": "1000 town center",
+      "city": "southfield",
+      "zipcode": "49785"
+    },
+    "skills": [
+      "interactive,patience"
+    ],
+    "qualifications" : "Degree",
+    
+    "personality":"energetic,cheerful"
+    
+  }
+  
+}

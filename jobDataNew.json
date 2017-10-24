@@ -1,0 +1,25 @@
+{
+  "jobs": [
+    {
+      "company": "Company 1",
+      "position" : "Manager",
+      "hoursPerDay": "5",
+      "pay": "50",
+      "address": "221B Baker Street",
+      "skills": "java,oracle",
+      "qualifications" : "masters",
+      "personality" : "happy"
+    }
+    ,
+     {
+       "company": "Company 1",
+      "position" : "Manager",
+      "hoursPerDay": "5",
+      "pay": "50",
+      "address": "221B Baker Street",
+      "skills": "java,oracle",
+      "qualifications" : "masters",
+      "personality" : "happy"
+    }
+  ]
+}
